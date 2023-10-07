@@ -21,3 +21,4 @@ And there you go, you can ask for proof, question or everything you want about t
 We will soon provide a Free Version that will not contain all of these so the premium Version stay cool to buy.
 
 THE TOOL DOESN'T COME WITH THE SOURCE CODE ! IF YOU WANT TO BUY THE SOURCE CODE IT IS FOR $60 !
+![Capture d'écran 2023-10-07 111741](https://github.com/KzEnTmax/HaxxorDDoS/assets/146013089/bd0ef0c1-f528-4b83-8810-42805975575e)
